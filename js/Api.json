@@ -1,0 +1,153 @@
+{
+    "products": [
+    {
+    "id": 1,
+    "title": "Iced Americano",
+    "description": "A refreshing coffee beverage made by pouring shots of espresso over ice water. It's known for its bold and smooth flavor, with a refreshing kick from the ice.",
+    "price": 10.25 ,
+    "images": [
+    "/public/img/iced-americano.png",
+    "https://cdn.dummyjson.com/product-images/1/2.jpg",
+    "https://cdn.dummyjson.com/product-images/1/3.jpg",
+    "https://cdn.dummyjson.com/product-images/1/4.jpg",
+    "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 2,
+    "title": "Iced Cappuccino",
+    "description": "Espresso with cold milk and ice, topped with a generous layer of frothy milk foam.",
+    "price": 12.5,
+    "images": [
+    "/public/img/iced-cappuccino.png",
+    "https://cdn.dummyjson.com/product-images/2/2.jpg",
+    "https://cdn.dummyjson.com/product-images/2/3.jpg",
+    "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 3,
+    "title": "Iced Espresso",
+    "description": "Shots of espresso over ice. It delivers a concentrated burst of flavor, with the ice adding a refreshing element to the beverage.",
+    "price": 14.25,
+    "images": [
+    "/public/img/iced-espresso.png"
+    ]
+    },
+    {
+    "id": 4,
+    "title": "Iced Latte",
+    "description": "Espresso with cold milk and ice. It offers a smooth and creamy texture, with the rich flavor of espresso perfectly complemented by the chilled milk.",
+    "price": 11.5,
+    "images": [
+    "/public/img/iced-latte.png",
+    "https://cdn.dummyjson.com/product-images/4/2.jpg",
+    "https://cdn.dummyjson.com/product-images/4/3.jpg",
+    "https://cdn.dummyjson.com/product-images/4/4.jpg",
+    "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 5,
+    "title": "Hot Americano",
+    "description": "Classic coffee beverage consisting of hot water poured over shots of espresso.",
+    "price": 8.5,
+    "images": [
+    "/public/img/hot-americano.png",
+    "https://cdn.dummyjson.com/product-images/5/2.jpg",
+    "https://cdn.dummyjson.com/product-images/5/3.jpg"
+    ]
+    },
+    {
+    "id": 6,
+    "title": "Hot Cappuccino",
+    "description": "Made by combining equal parts of espresso, steamed milk, and milk foam.",
+    "price": 9.5,
+    "images": [
+    "/public/img/hot-cappuccino.png",
+    "https://cdn.dummyjson.com/product-images/6/2.jpg",
+    "https://cdn.dummyjson.com/product-images/6/3.png",
+    "https://cdn.dummyjson.com/product-images/6/4.jpg"
+    ]
+    },
+    {
+    "id": 7,
+    "title": "Hot Espresso",
+    "description": "Hot Espresso is the pure essence of coffee, consisting solely of a concentrated shot of espresso served piping hot.",
+    "price": 7.5,
+    "images": [
+    "/public/img/hot-espresso.png",
+    "https://cdn.dummyjson.com/product-images/7/2.jpg",
+    "https://cdn.dummyjson.com/product-images/7/3.jpg",
+    "https://cdn.dummyjson.com/product-images/7/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 8,
+    "title": "Hot Latte",
+    "description": "A Hot Latte is a comforting and creamy coffee beverage made by combining espresso with steamed milk.",
+    "price": 6.5,
+    "images": [
+    "/public/img/hot-latte.png",
+    "https://cdn.dummyjson.com/product-images/8/2.jpg",
+    "https://cdn.dummyjson.com/product-images/8/3.jpg",
+    "https://cdn.dummyjson.com/product-images/8/4.jpg",
+    "https://cdn.dummyjson.com/product-images/8/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 9,
+    "title": "Strawberry Smoothie",
+    "description": "Made by blending ripe strawberries with yogurt, milk, and ice. It offers a vibrant pink color and a deliciously sweet and tangy flavor.",
+    "price": 12.5,
+    "images": [
+    "/public/img/smoothie-1.png",
+    "https://cdn.dummyjson.com/product-images/9/2.png",
+    "https://cdn.dummyjson.com/product-images/9/3.png",
+    "https://cdn.dummyjson.com/product-images/9/4.jpg",
+    "https://cdn.dummyjson.com/product-images/9/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 10,
+    "title": "Red Berry Smoothie",
+    "description": "Made by blending ripe red berry with yogurt, milk, and ice. It offers a vibrant pink color and a deliciously sweet and tangy flavor.",
+    "price": 14.5,
+    "images": [
+    "/public/img/smoothie-2.png",
+    "https://cdn.dummyjson.com/product-images/10/2.jpg",
+    "https://cdn.dummyjson.com/product-images/10/3.jpg",
+    "https://cdn.dummyjson.com/product-images/10/thumbnail.jpeg"
+    ]
+    },
+    {
+    "id": 11,
+    "title": "Pineapple Smoothie ",
+    "description": "Made by blending ripe pineapple with yogurt, milk, and ice. It offers a vibrant pink color and a deliciously sweet and tangy flavor.",
+    "price": 16.5,
+    "images": [
+    "/public/img/smoothie-3.png",
+    "https://cdn.dummyjson.com/product-images/11/2.jpg",
+    "https://cdn.dummyjson.com/product-images/11/3.jpg",
+    "https://cdn.dummyjson.com/product-images/11/thumbnail.jpg"
+    ]
+    },
+    {
+    "id": 12,
+    "title": "Spinach Smoothie",
+    "description": "Made by blending ripe spinach with yogurt, milk, and ice. It offers a vibrant pink color and a deliciously sweet and tangy flavor.",
+    "price": 18.5,
+    "images": [
+    "/public/img/smoothie-4.png",
+    "https://cdn.dummyjson.com/product-images/12/2.jpg",
+    "https://cdn.dummyjson.com/product-images/12/3.png",
+    "https://cdn.dummyjson.com/product-images/12/4.jpg",
+    "https://cdn.dummyjson.com/product-images/12/thumbnail.jpg"
+    ]
+    }
+    
+    ],
+    "total": 100,
+    "skip": 0,
+    "limit": 30
+    }
